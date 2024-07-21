@@ -10,6 +10,7 @@ const Record = () => {
     setRecord(true);
   };
     
+  
   const stopRecording = () => {
     setRecord(false);
   };
